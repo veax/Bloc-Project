@@ -1,0 +1,7 @@
+.idea/
+.metadata/
+bin/
+.project
+.settings
+.classpath
+Bloc.iml
